@@ -1,0 +1,4 @@
+Django
+wheel/Pillow-4.0.0-cp34-none-win32.whl
+azure
+django-storages
